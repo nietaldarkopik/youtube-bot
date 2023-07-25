@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@clerk/chrome-extension": "^0.3.25",
+    "chrome": "^0.1.0",
+    "chrome-extension-async": "^3.4.1",
+    "chrome-extensions": "^1.0.0",
+    "install": "^0.13.0",
+    "jquery": "^3.7.0",
+    "jsdom": "^22.1.0",
+    "npm": "^9.8.1",
+    "puppeteer": "^20.8.0",
+    "puppeteer-cluster": "^0.23.0",
+    "puppeteer-core": "^20.8.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-anonymize-ua": "^2.4.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
